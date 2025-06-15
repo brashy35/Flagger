@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Files Breakdown
 
 - `cli_gameplay.py` – Command-line version of the game
-- `gui_gameplay.py` – GUI version using `tkinter`
+- `gui_gameplay.py` – GUI version using `PyQt5`
 - `helper.py` – Handles API stuff and flag descriptions
 - `gui_image.png` – The game’s logo
 
